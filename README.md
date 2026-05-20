@@ -221,3 +221,5 @@ If you only want the automation pieces, the bundled scripts can also be used dir
 - [J3n5en](https://github.com/J3n5en) for the modified `augment.mjs` referenced by the bundled guide
 - [Augment ACE MCP](https://acemcp.heroman.wtf/)
 - [OpenAI Codex CLI](https://developers.openai.com/codex/cli)
+
+- Thanks to the [Linux.do](https://linux.do/) community for project promotion and feedback.
